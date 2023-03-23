@@ -2,9 +2,10 @@
 
 This an about me paragraph...
 
-[![LinkedIn][linkedin_badge]][linkedin_profile] 
+[![LinkedIn][linkedin_badge]][linkedin_profile]
 [![Research Gate][researchgate_badge]][researchgate_profile]
 
+<!-- Metadata -->
 [linkedin_badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin_profile]: https://www.linkedin.com/in/daniel-boubeta-portela-276bb112b/
 
