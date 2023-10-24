@@ -2,7 +2,7 @@
 
 I'm Daniel Boubeta, a fullstack developer and technology enthusiast from Galiza, Spain.
 
-Among my many interests, I love developing eye-catching web and mobile applications, learning about the lastest artificial intelligence technologies, and experimenting with electronics to create IoT devices for my own use. But one of the extra-professional hobbies I enjoy the most is game design, as I'm a big fan of board games, so don't be surprised if you find a few projects related to that here, too. Finally, if you are curious about my professional career, at this moment I'm working as a Researcher in the University of A Coruña, in Galiza.
+Among my many interests, I love developing eye-catching web and mobile applications, learning about the lastest artificial intelligence technologies, and experimenting with electronics to create IoT devices for my own use. But one of the extra-professional hobbies I enjoy the most is game design, as I'm a big fan of board games, so don't be surprised if you find a few projects related to that here, too. Finally, if you are curious about my professional career, at this moment I'm working as a GIS Analyst and Software Developer at Avansig.
 
 So, welcome to my GitHub profile. Take a look and happy coding!
 
